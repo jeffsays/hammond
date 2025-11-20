@@ -1,6 +1,6 @@
 module github.com/akhilrex/hammond
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -12,8 +12,8 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/leekchan/accounting v1.0.0
 	github.com/satori/go.uuid v1.2.0
-	golang.org/x/crypto v0.36.0
-	golang.org/x/net v0.38.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/net v0.47.0
 	gorm.io/driver/mysql v1.0.5
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.3
@@ -47,8 +47,8 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
 	golang.org/x/arch v0.8.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	google.golang.org/protobuf v1.34.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
